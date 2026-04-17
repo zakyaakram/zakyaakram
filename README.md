@@ -160,13 +160,5 @@
 
 ---
 
-### 🎓 Certifications
-- AWS Academy – Cloud Foundations, Architecting, Security  
-- Red Hat (RH124, RH134, OpenShift DO180)  
-- Huawei Cloud Certified Developer (HCCDP)  
 
----
 
-### 🌍 Languages
-- Arabic (Native)
-- English (Professional)
